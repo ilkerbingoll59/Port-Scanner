@@ -9863,6 +9863,7 @@ simplifymedia      8087
 radan-http         8088       
 radan-http         8088       
 jamlink            8091       
+jellyfin           8096       
 sac                8097       
 sac                8097       
 xprint-server      8100       
